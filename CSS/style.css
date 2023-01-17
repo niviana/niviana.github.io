@@ -28,9 +28,9 @@ a:hover, a:active {
 }
 textarea {
   font-family: "Roboto", sans-serif;
-
+}
 .background {
-  background: #0d1011 url("../media/NA.jpg") no-repeat center fixed;
+  background: #0d1011 url("../media/NA.png") no-repeat center fixed;
   background-size: cover;
   position: fixed;
   left: 0;
